@@ -1,0 +1,8 @@
+bookstore/
+│
+├─ index.html       (Home Page)
+├─ about.html       (About Us)
+├─ products.html    (Books listing)
+├─ contact.html     (Contact Form)
+├─ style.css        (All CSS)
+└─ script.js        (Optional JS)
